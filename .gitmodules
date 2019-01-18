@@ -17,3 +17,8 @@
 	path = oca/l10n-spainv11
 	url = git@github.com:oca/l10n-spain.git
 	branch = 11.0
+
+[submodule "OCA/l10n-spain/tree/11.0/l10n_es_facturae"]
+	path = OCA/l10n-spain/tree/11.0/l10n_es_facturae
+	url = git@github.com:oca/l10n-spain.git
+	branch = 11.0
